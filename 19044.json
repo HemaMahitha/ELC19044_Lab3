@@ -1,0 +1,192 @@
+{
+    "article": {
+      "info": {
+        "title": "Cleaning"
+      },
+      "para": [
+        {
+          "link": "logo"
+        },
+        {
+          "emphasis": ""
+        },
+        ""
+      ],
+      "itemizedlist": {
+        "listitem": [
+          {
+            "para": {
+              "link": "home"
+            }
+          },
+          {
+            "para": {
+              "link": "services"
+            }
+          },
+          {
+            "para": {
+              "link": "about"
+            }
+          },
+          {
+            "para": {
+              "link": "reviews"
+            }
+          },
+          {
+            "para": {
+              "link": "pricing"
+            }
+          },
+          {
+            "para": {
+              "link": "news"
+            }
+          },
+          {
+            "para": {
+              "link": "contact us"
+            }
+          }
+        ]
+      },
+      "anchor": [
+        "",
+        "",
+        ""
+      ],
+      "section": [
+        {
+          "title": "save time for your family.",
+          "para": ""
+        },
+        {
+          "title": "we clean for you!",
+          "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\n      eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim\n      ad minim veniam.",
+          "link": "see our offer"
+        },
+        {
+          "title": "commercial",
+          "section": {
+            "title": "cleaning",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sedit\n        dout eiusmod tempor incididunt ut labore et dolore magna",
+            "itemizedlist": [
+              {
+                "listitem": [
+                  {
+                    "para": "office"
+                  },
+                  {
+                    "para": "shops"
+                  },
+                  {
+                    "para": "medical facilities"
+                  },
+                  {
+                    "para": "factories"
+                  },
+                  {
+                    "para": "restaurants"
+                  }
+                ]
+              },
+              {
+                "listitem": [
+                  {
+                    "para": "warehouses"
+                  },
+                  {
+                    "para": "airports"
+                  },
+                  {
+                    "para": "move in/out"
+                  },
+                  {
+                    "para": "gouvernment facilities"
+                  },
+                  {
+                    "para": "showrooms"
+                  }
+                ]
+              }
+            ],
+            "link": "request an estimate"
+          }
+        },
+        {
+          "title": "residential",
+          "section": {
+            "title": "cleaning",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sedit\n        dout eiusmod tempor incididunt ut labore et dolore magna",
+            "itemizedlist": [
+              {
+                "listitem": [
+                  {
+                    "para": "kitchen"
+                  },
+                  {
+                    "para": "bathrooms"
+                  },
+                  {
+                    "para": "bedrooms &amp; living rooms"
+                  },
+                  {
+                    "para": "windows"
+                  },
+                  {
+                    "para": "extra services"
+                  }
+                ]
+              },
+              {
+                "listitem": [
+                  {
+                    "para": "carpet"
+                  },
+                  {
+                    "para": "seasonal"
+                  },
+                  {
+                    "para": "move in/out"
+                  },
+                  {
+                    "para": "past contruction"
+                  },
+                  {
+                    "para": "express"
+                  }
+                ]
+              }
+            ],
+            "link": "request an estimate"
+          }
+        },
+        {
+          "title": "why choose us",
+          "emphasis": "",
+          "section": [
+            {
+              "title": "premium services",
+              "para": "Lorem ipsum dolor consectetur adipisicing elit sedit dout.",
+              "emphasis": ""
+            },
+            {
+              "title": "cost",
+              "para": "Lorem ipsum dolor consectetur adipisicing elit sedit dout.",
+              "emphasis": ""
+            },
+            {
+              "title": "eco friendly",
+              "para": "Lorem ipsum dolor consectetur adipisicing elit sedit dout.",
+              "emphasis": ""
+            },
+            {
+              "title": "special equipment",
+              "para": "Lorem ipsum dolor consectetur adipisicing elit sedit dout."
+            }
+          ]
+        }
+      ]
+    }
+  }

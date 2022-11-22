@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article>
+<article
+  xml:lang="en"
+  xmlns="http://docbook.org/ns/docbook" version="5.0"
+  xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <info>
+    <title>Cleaning</title>
+  </info>
+  <para>
+    <link linkend="home">logo</link>
+  </para>
+  <para>
+    <emphasis></emphasis>
+  </para>
+  <itemizedlist spacing="compact">
+    <listitem>
+      <para>
+        <link linkend="home" role="active">home</link>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        <link linkend="services">services</link>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        <link linkend="about">about</link>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        <link linkend="reviews">reviews</link>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        <link linkend="pricing">pricing</link>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        <link linkend="news">news</link>
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        <link linkend="contact">contact us</link>
+      </para>
+    </listitem>
+  </itemizedlist>
+  <anchor xml:id="home" />
+  <section xml:id="save-time-for-your-family.">
+    <title>save time for your family.</title>
+    <para>
+    </para>
+  </section>
+  <section xml:id="we-clean-for-you">
+    <title>we clean for you!</title>
+    <para>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim
+      ad minim veniam.
+    </para>
+    <link linkend="" role="btn">see our offer</link>
+  </section>
+  <para>
+  </para>
+  <anchor xml:id="services" />
+  <section xml:id="commercial">
+    <title>commercial</title>
+    <section xml:id="cleaning">
+      <title>cleaning</title>
+      <para>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sedit
+        dout eiusmod tempor incididunt ut labore et dolore magna
+      </para>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>
+            office
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            shops
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            medical facilities
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            factories
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            restaurants
+          </para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>
+            warehouses
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            airports
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            move in/out
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            gouvernment facilities
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            showrooms
+          </para>
+        </listitem>
+      </itemizedlist>
+      <link linkend="" role="btn">request an estimate</link>
+    </section>
+  </section>
+  <section xml:id="residential">
+    <title>residential</title>
+    <section xml:id="cleaning-1">
+      <title>cleaning</title>
+      <para>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sedit
+        dout eiusmod tempor incididunt ut labore et dolore magna
+      </para>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>
+            kitchen
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            bathrooms
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            bedrooms &amp; living rooms
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            windows
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            extra services
+          </para>
+        </listitem>
+      </itemizedlist>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>
+            carpet
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            seasonal
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            move in/out
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            past contruction
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            express
+          </para>
+        </listitem>
+      </itemizedlist>
+      <link linkend="" role="btn">request an estimate</link>
+    </section>
+  </section>
+  <anchor xml:id="about" />
+  <section xml:id="why-choose-us">
+    <title>why choose us</title>
+    <emphasis></emphasis>
+    <section xml:id="premium-services">
+      <title>premium services</title>
+      <para>
+        Lorem ipsum dolor consectetur adipisicing elit sedit dout.
+      </para>
+      <emphasis></emphasis>
+    </section>
+    <section xml:id="cost">
+      <title>cost</title>
+      <para>
+        Lorem ipsum dolor consectetur adipisicing elit sedit dout.
+      </para>
+      <emphasis></emphasis>
+    </section>
+    <section xml:id="eco-friendly">
+      <title>eco friendly</title>
+      <para>
+        Lorem ipsum dolor consectetur adipisicing elit sedit dout.
+      </para>
+      <emphasis></emphasis>
+    </section>
+    <section xml:id="special-equipment">
+      <title>special equipment</title>
+      <para>
+        Lorem ipsum dolor consectetur adipisicing elit sedit dout.
+      </para>
+    </section>
+  </section>
+</article>
